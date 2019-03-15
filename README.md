@@ -1,6 +1,6 @@
 ## 简介
-借助Github的Projects和Issues来整理了一个简单的博客，
-将自己用到的技术进行整理
+借助Github的Projects和Issues整理了一个简单的博客，它。。简单直接
+
 
 ## 分类
 * [Vue](https://github.com/Coderzhong/Blog/projects/1)

@@ -17,3 +17,5 @@
   * [从URl输入到页面展现](https://github.com/Coderzhong/Blog/issues/5)
   
   * [vue生命周期](https://github.com/Coderzhong/Blog/issues/4)
+  * [关于web缓存](https://github.com/Coderzhong/Blog/issues/6)
+  * [去重](https://github.com/Coderzhong/Blog/issues/7)

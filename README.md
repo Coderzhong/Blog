@@ -18,4 +18,4 @@
   
   * [vue生命周期](https://github.com/Coderzhong/Blog/issues/4)
   * [关于web缓存](https://github.com/Coderzhong/Blog/issues/6)
-  * [去重](https://github.com/Coderzhong/Blog/issues/7)
+  * [去重](https://github.com/Coderzhong/Blog/issues/8)

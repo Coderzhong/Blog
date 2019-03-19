@@ -14,7 +14,7 @@
 * [React](https://github.com/Coderzhong/Blog/projects/3)
 * [面试](https://github.com/Coderzhong/Blog/projects/4)
   * [深拷贝和浅拷贝](https://github.com/Coderzhong/Blog/issues/3)
-  * [从URl输入到页面展现](https://github.com/Coderzhong/Blog/issues/5)
+  * [从URL输入到页面展现](https://github.com/Coderzhong/Blog/issues/5)
   
   * [vue生命周期](https://github.com/Coderzhong/Blog/issues/4)
   * [原型和原型链](https://github.com/Coderzhong/Blog/issues/6)

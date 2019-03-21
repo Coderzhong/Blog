@@ -14,9 +14,16 @@
 * [React](https://github.com/Coderzhong/Blog/projects/3)
 * [面试](https://github.com/Coderzhong/Blog/projects/4)
   * [深拷贝和浅拷贝](https://github.com/Coderzhong/Blog/issues/3)
-  * [从URL输入到页面展现](https://github.com/Coderzhong/Blog/issues/5)
-  
-  * [vue生命周期](https://github.com/Coderzhong/Blog/issues/4)
-  * [原型和原型链](https://github.com/Coderzhong/Blog/issues/6)
-  * [关于web缓存](https://github.com/Coderzhong/Blog/issues/7)
   * [数组去重](https://github.com/Coderzhong/Blog/issues/8)
+  * [从URL输入到页面展现](https://github.com/Coderzhong/Blog/issues/5)
+  * [关于web缓存](https://github.com/Coderzhong/Blog/issues/7)
+  * [原型和原型链](https://github.com/Coderzhong/Blog/issues/6)
+  ***
+  * [vue生命周期](https://github.com/Coderzhong/Blog/issues/4)
+  * [computed和watch](https://github.com/Coderzhong/Blog/issues/10)
+  ***
+  * [css3的新特性](https://github.com/Coderzhong/Blog/issues/11)
+  
+  
+  
+  

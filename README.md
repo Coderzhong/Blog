@@ -12,7 +12,7 @@
 * [ES6 to ESNext](https://github.com/Coderzhong/Blog/projects/2)
 
 * [React](https://github.com/Coderzhong/Blog/projects/3)
-* [面试](https://github.com/Coderzhong/Blog/projects/4)
+* [其他](https://github.com/Coderzhong/Blog/projects/4)
   * [深拷贝和浅拷贝](https://github.com/Coderzhong/Blog/issues/3)
   * [数组去重](https://github.com/Coderzhong/Blog/issues/8)
   * [从URL输入到页面展现](https://github.com/Coderzhong/Blog/issues/5)

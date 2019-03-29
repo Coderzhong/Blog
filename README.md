@@ -9,7 +9,9 @@
   
   * [基于@vue/cli搭建vue开发框架](https://github.com/Coderzhong/Blog/issues/2)
   
-* [ES6 to ESNext](https://github.com/Coderzhong/Blog/projects/2)
+* [ES6及ES6+](https://github.com/Coderzhong/Blog/projects/2)
+
+  * [ES6](https://github.com/Coderzhong/Blog/issues/13)
 
 * [React](https://github.com/Coderzhong/Blog/projects/3)
 * [其他](https://github.com/Coderzhong/Blog/projects/4)

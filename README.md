@@ -26,6 +26,7 @@
   * [从URL输入到页面展现](https://github.com/Coderzhong/Blog/issues/5)
   * [关于web缓存](https://github.com/Coderzhong/Blog/issues/7)
   * [原型和原型链](https://github.com/Coderzhong/Blog/issues/6)
+  * [数组常用方法总结](https://github.com/Coderzhong/Blog/issues/15)
   
   ***
   * [css3的新特性](https://github.com/Coderzhong/Blog/issues/11)

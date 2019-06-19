@@ -1,5 +1,5 @@
 ## 简介
-借助Github的Projects和Issues整理了一个简单的博客，它。。简单直接
+借助Github的Projects和Issues整理了一个简单的博客，其中包括自己整理的一些知识点和积累的一些好的文章。
 
 
 ## 分类
@@ -27,6 +27,7 @@
   * [关于web缓存](https://github.com/Coderzhong/Blog/issues/7)
   * [原型和原型链](https://github.com/Coderzhong/Blog/issues/6)
   * [数组常用方法总结](https://github.com/Coderzhong/Blog/issues/15)
+  * [js执行机制](https://github.com/Coderzhong/Blog/issues/16)
   
   ***
   * [css3的新特性](https://github.com/Coderzhong/Blog/issues/11)

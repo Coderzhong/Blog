@@ -24,7 +24,7 @@
   * [深拷贝和浅拷贝](https://github.com/Coderzhong/Blog/issues/3)
   * [数组去重](https://github.com/Coderzhong/Blog/issues/8)
   * [从URL输入到页面展现](https://github.com/Coderzhong/Blog/issues/5)
-  * [关于web缓存](https://github.com/Coderzhong/Blog/issues/7)
+  * [关于web存储](https://github.com/Coderzhong/Blog/issues/7)
   * [原型和原型链](https://github.com/Coderzhong/Blog/issues/6)
   * [数组常用方法总结](https://github.com/Coderzhong/Blog/issues/15)
   * [js执行机制](https://github.com/Coderzhong/Blog/issues/16)

@@ -20,6 +20,7 @@
   * [ES6](https://github.com/Coderzhong/Blog/issues/13)
 
 * [React](https://github.com/Coderzhong/Blog/projects/3)
+  * [数据流向](https://github.com/Coderzhong/Blog/issues/18)
 * [其他](https://github.com/Coderzhong/Blog/projects/4)
   * [深拷贝和浅拷贝](https://github.com/Coderzhong/Blog/issues/3)
   * [数组去重](https://github.com/Coderzhong/Blog/issues/8)
@@ -28,6 +29,7 @@
   * [原型和原型链](https://github.com/Coderzhong/Blog/issues/6)
   * [数组常用方法总结](https://github.com/Coderzhong/Blog/issues/15)
   * [js执行机制](https://github.com/Coderzhong/Blog/issues/16)
+  * [this](https://github.com/Coderzhong/Blog/issues/17)
   
   ***
   * [css3的新特性](https://github.com/Coderzhong/Blog/issues/11)

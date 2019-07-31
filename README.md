@@ -16,6 +16,7 @@
   * [导航守卫](https://github.com/Coderzhong/Blog/issues/14)
   
   * [computed和watch](https://github.com/Coderzhong/Blog/issues/10)
+  * [分环境编译，设置环境变量](https://github.com/Coderzhong/Blog/issues/21)
   
 * [ES6及ES6+](https://github.com/Coderzhong/Blog/projects/2)
 

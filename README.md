@@ -23,6 +23,7 @@
   * [ES6](https://github.com/Coderzhong/Blog/issues/13)
 * [小程序](https://github.com/Coderzhong/Blog/projects/6)
   * [填坑记](https://github.com/Coderzhong/Blog/issues/20)
+  * [个人小程序](https://github.com/Coderzhong/Blog/issues/22)
 * [React](https://github.com/Coderzhong/Blog/projects/3)
   * [数据流向](https://github.com/Coderzhong/Blog/issues/18)
 * [其他](https://github.com/Coderzhong/Blog/projects/4)
